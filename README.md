@@ -62,9 +62,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<!--   <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/> -->
-  <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<!--   <br> -->
+  <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/> 
+   <img alt="OOP" src="https://img.shields.io/badge/OOP-%2314354C.svg?style=for-the-badge&logo=OOP&logoColor=whit"/>
+<!--   <br> --> 
 <!--   <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%230db7ed.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
